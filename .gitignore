@@ -1,0 +1,3 @@
+# hide all the unecessay files and folder
+node_modules/
+.env
